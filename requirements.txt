@@ -1,13 +1,10 @@
 streamlit
-torch
-scikit-learn
+torch==2.2.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 pandas
 numpy
+scikit-learn
 matplotlib
 seaborn
 joblib
-opencv-python      # if using OpenCV for image processing
-scipy              # for scientific computations
-xgboost            # if using XGBoost models
 pydicom
 cv2
