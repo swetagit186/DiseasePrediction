@@ -1,0 +1,11 @@
+streamlit
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+opencv-python      # if using OpenCV for image processing
+scipy              # for scientific computations
+xgboost            # if using XGBoost models
