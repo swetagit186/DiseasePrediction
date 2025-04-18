@@ -10,3 +10,4 @@ opencv-python      # if using OpenCV for image processing
 scipy              # for scientific computations
 xgboost            # if using XGBoost models
 pydicom
+cv2
