@@ -7,4 +7,6 @@ matplotlib
 seaborn
 joblib
 pydicom
-cv2
+torchvision
+opencv-python
+Pillow
